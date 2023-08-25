@@ -18,9 +18,12 @@
  -->
 </p>
 
+<div align = "center">
 <h2 align = "center"> 📊 Github Stats </h2>
+ 
+![Kabir's GitHub stats](https://github-readme-stats.vercel.app/api?username=kabir-afk&show_icons=true&theme=neon )![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kabir-afk&exclude_repo=interactive-pricing-component-main,kabir-afk.github.io&layout=compact)
 
-![Kabir's GitHub stats](https://github-readme-stats.vercel.app/api?username=kabir-afk&show_icons=true&theme=neon )
+</div>
 
 <h2 align = "center">📱Let's Connect </h2>
 <a href = "https://www.frontendmentor.io/profile/kabir-afk"><img src = "https://www.frontendmentor.io/static/images/logo-desktop.svg"></a>
