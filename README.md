@@ -18,6 +18,10 @@
  -->
 </p>
 
+<h2 align = "center"> 📊 Github Stats </h2>
+
+![Kabir's GitHub stats](https://github-readme-stats.vercel.app/api?username=kabir-afk&show_icons=true&theme=neon )
+
 <h2 align = "center">📱Let's Connect </h2>
 <a href = "https://www.frontendmentor.io/profile/kabir-afk"><img src = "https://www.frontendmentor.io/static/images/logo-desktop.svg"></a>
 <a href = "https://leetcode.com/kabiraxxx/"><img src = "https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width = "40" height = "auto"></a>
