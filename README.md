@@ -19,3 +19,4 @@
 </p>
 
 <h2 align = "center">📱Let's Connect </h2>
+<a href = "https://www.frontendmentor.io/profile/kabir-afk"><img src = "https://www.frontendmentor.io/static/images/logo-desktop.svg"></a>
