@@ -20,3 +20,4 @@
 
 <h2 align = "center">📱Let's Connect </h2>
 <a href = "https://www.frontendmentor.io/profile/kabir-afk"><img src = "https://www.frontendmentor.io/static/images/logo-desktop.svg"></a>
+<a href = "https://leetcode.com/kabiraxxx/"><img src = "https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width = "40" height = "auto"></a>
