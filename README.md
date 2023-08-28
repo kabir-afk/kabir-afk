@@ -21,10 +21,13 @@
 <div align = "center">
 <h2 align = "center"> 📊 Github Stats </h2>
  
-![Kabir's GitHub stats](https://github-readme-stats.vercel.app/api?username=kabir-afk&show_icons=true&theme=neon )![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kabir-afk&exclude_repo=interactive-pricing-component-main,kabir-afk.github.io&layout=compact)
-
+![Kabir's GitHub stats](https://github-readme-stats.vercel.app/api?username=kabir-afk&show_icons=true&theme=neon )
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kabir-afk&exclude_repo=interactive-pricing-component-main,kabir-afk.github.io&layout=compact)
+![GitHub Streak](https://streak-stats.demolab.com/?user=kabir-afk&theme=dark)
 </div>
 
 <h2 align = "center">📱Let's Connect </h2>
+<p align = "center">
 <a href = "https://www.frontendmentor.io/profile/kabir-afk"><img src = "https://www.frontendmentor.io/static/images/logo-desktop.svg"></a>
 <a href = "https://leetcode.com/kabiraxxx/"><img src = "https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width = "40" height = "auto"></a>
+</p>
