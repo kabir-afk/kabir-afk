@@ -15,15 +15,14 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" alt = "React" width = "40" height = "40">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt = "NodeJS" width = "40" height = "40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt = "Java" width = "40" height = "40"/>
+![Kabir's GitHub stats](https://github-readme-stats.vercel.app/api?username=kabir-afk&show_icons=true&theme=neon )
  -->
 </p>
-
 <div align = "center">
-<h2 align = "center"> 📊 Github Stats </h2>
- 
-![Kabir's GitHub stats](https://github-readme-stats.vercel.app/api?username=kabir-afk&show_icons=true&theme=neon )
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kabir-afk&exclude_repo=interactive-pricing-component-main,kabir-afk.github.io&layout=compact)
+<h2> 📊 Github Stats </h2>
+
 ![GitHub Streak](https://streak-stats.demolab.com/?user=kabir-afk&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kabir-afk&exclude_repo=interactive-pricing-component-main,kabir-afk.github.io&layout=compact)
 </div>
 
 <h2 align = "center">📱Let's Connect </h2>
