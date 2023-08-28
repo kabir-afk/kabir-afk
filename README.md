@@ -20,11 +20,11 @@
 </p>
 
 <h2 align = center> 📊 Github Stats </h2>
-<a href="https://streak-stats.demolab.com/?user=kabir-afk" align = "left">
+<a href="https://streak-stats.demolab.com/?user=kabir-afk" >
   <img height=200 align="center" src="https://streak-stats.demolab.com/?user=kabir-afk&theme=dark" />
 </a>
-<a href="https://github.com/kabir-afk/convoychat" align = "right">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kabir-afk&layout=compact&langs_count=8&hide=typescript,less&card_width=320&theme=dark" />
+<a href="https://github.com/kabir-afk/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kabir-afk&layout=compact&langs_count=8&hide=typescript,less&card_width=200&theme=dark" />
 </a>
 
 <h2 align = "center">📱Let's Connect </h2>
