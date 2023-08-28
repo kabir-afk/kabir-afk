@@ -20,9 +20,12 @@
 </p>
 <div align = "center">
 <h2> 📊 Github Stats </h2>
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=kabir-afk&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kabir-afk&exclude_repo=interactive-pricing-component-main,kabir-afk.github.io&layout=compact)
+<a href="https://streak-stats.demolab.com/?user=kabir-afk">
+  <img height=200 align="center" src="https://streak-stats.demolab.com/?user=kabir-afk&theme=dark" />
+</a>
+<a href="https://github.com/kabir-afk/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kabir-afk&layout=compact&langs_count=8&hide=typescript,less&card_width=320&theme=dark" />
+</a>
 </div>
 
 <h2 align = "center">📱Let's Connect </h2>
