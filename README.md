@@ -18,6 +18,9 @@
 ![Kabir's GitHub stats](https://github-readme-stats.vercel.app/api?username=kabir-afk&show_icons=true&theme=neon )
  -->
 </p>
+
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)
+
 <div align = "center">
 <h2> 📊 Github Stats </h2>
 <a href="https://streak-stats.demolab.com/?user=kabir-afk">
