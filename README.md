@@ -20,10 +20,10 @@
 </p>
 
 <h2 align = center> 📊 Github Stats </h2>
-<!-- <div align = "center"> -->
+<div align = "center">
 <img height=200 align="center" src="https://streak-stats.demolab.com/?user=kabir-afk&theme=dark" />
-&nbsp;<img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kabir-afk&layout=compact&langs_count=8&hide=typescript,less&card_width=200&theme=dark" />
-<!-- </div> -->
+&nbsp;<img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kabir-afk&layout=compact&langs_count=8&hide=typescript,less&card_width=400&theme=dark" />
+</div>
 <h2 align = "center">📱Let's Connect </h2>
 <p align = "center">
 <a href = "https://www.frontendmentor.io/profile/kabir-afk"><img src = "https://www.frontendmentor.io/static/images/logo-desktop.svg"></a>
