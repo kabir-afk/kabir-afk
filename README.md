@@ -20,10 +20,10 @@
 </p>
 
 <h2 align = center> 📊 Github Stats </h2>
-<a href="https://streak-stats.demolab.com/?user=kabir-afk">
+<a href="https://streak-stats.demolab.com/?user=kabir-afk" align = "left">
   <img height=200 align="center" src="https://streak-stats.demolab.com/?user=kabir-afk&theme=dark" />
 </a>
-<a href="https://github.com/kabir-afk/convoychat">
+<a href="https://github.com/kabir-afk/convoychat" align = "right">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kabir-afk&layout=compact&langs_count=8&hide=typescript,less&card_width=320&theme=dark" />
 </a>
 
