@@ -1,5 +1,5 @@
 ### Henlo 😸
-- 🔭 I’m currently working on JS DOM manipulaiton and User-Form Validation 
+- 🔭 I’m currently working on JS DOM manipulaiton and OOPs(in Java as well as Javascript)
 - 🌱 I’ll be learning REACT soon
 - 💬 You can ask me about frontend-web-dev, lil bit DSA
 - 🙌 Feel free to check my Frontend Mentor challenges
