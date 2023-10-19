@@ -1,7 +1,7 @@
 ### Henlo 😸
 - 🔭 I’m currently learning REACT
 - 💬 You can ask me about frontend-web-dev, lil bit DSA
-- 🙌 Feel free to check my Frontend Mentor challenges
+- 🙌 Feel free to check out my projects
 - ⚡ Fun fact: I love cats 
 <h2 align = "center">🛠️Languages and tools </h2>
 <p>
