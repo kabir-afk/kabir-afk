@@ -31,5 +31,5 @@
 <p align = "center">
 <a href = "https://www.frontendmentor.io/profile/kabir-afk" target="_blank"><img src = "https://www.frontendmentor.io/static/images/logo-desktop.svg"></a>
 <a href = "https://leetcode.com/kabiraxxx/" target="_blank"><img src = "https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width = "40" height = "auto"></a>
-  <a href = "https://cssbattle.dev/player/kabiraaaaa"><img src = "https://cssbattle.dev/images/logo-new-glyph.svg" width = "40" height = "auto"></a>
+<a href = "https://cssbattle.dev/player/kabiraaaaa" target="_blank"><img src = "https://cssbattle.dev/images/logo-new-glyph.svg" width = "40" height = "auto"></a>
 </p>
