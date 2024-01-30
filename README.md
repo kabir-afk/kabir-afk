@@ -23,9 +23,6 @@
 &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kabir-afk&layout=compact&langs_count=8&hide=typescript,less&&theme=dark" />
 <img src = "https://github-readme-stats.vercel.app/api?username=kabir-afk&show_icons=true&theme=dark">
 </div>
-<h2 align=center> 🌟 Badges </h2>
-
-[![An image of @kabirafk's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/kabirafk)](https://holopin.io/@kabirafk)
 
 <h2 align = "center">📱Let's Connect </h2>
 <p align = "center">
