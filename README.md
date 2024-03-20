@@ -1,6 +1,6 @@
 ### Henlo 😸
-- 🔭 I’m currently learning REACT
-- 💬 You can ask me about frontend-web-dev, lil bit DSA
+- 🔭 I’m currently learning fullstack web ddev
+- 💬 Currently opensourcing in SignIt
 - 🙌 Feel free to check out my projects
 - ⚡ Fun fact: I love cats 
 <h2 align = "center">🛠️Languages and tools </h2>
