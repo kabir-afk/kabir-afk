@@ -15,6 +15,8 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" alt = "Express" width = "40" height = "40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" alt = "React" width = "40" height = "40">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" alt = "Node" width = "40" height = "40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" alt = "Postman" width = "40" height = "40"/>
+
 </p>
 
 <h2 align = center> 📊 Github Stats </h2>
