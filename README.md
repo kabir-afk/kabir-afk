@@ -1,5 +1,5 @@
 ### Henlo 😸
-- 🔭 Learning fullstack web dev
+- 🔭 Exploring blockchain
 - 💬 Currently opensourcing in SignIt
 - 🙌 Feel free to check out my projects
 - ⚡ Fun fact: I love cats 
