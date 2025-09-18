@@ -19,12 +19,12 @@
 
 </p>
 
-<h2 align = center> 📊 Github Stats </h2>
+<!-- <h2 align = center> 📊 Github Stats </h2>
 <div align = "center">
 <img width = 410 align="center" src="https://streak-stats.demolab.com/?user=kabir-afk&theme=dark" />
 &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kabir-afk&layout=compact&langs_count=8&hide=typescript,less&&theme=dark" />
 <img src = "https://github-readme-stats.vercel.app/api?username=kabir-afk&show_icons=true&theme=dark">
-</div>
+</div> -->
 
 <h2 align = "center">📱Let's Connect </h2>
 <p align = "center">
