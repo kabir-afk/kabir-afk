@@ -1,5 +1,5 @@
 ### Henlo 😸
-- 🔭 Exploring blockchain
+- 🔭 learning DRF
 - 💬 Currently opensourcing in SignIt
 - 🙌 Feel free to check out my projects
 - ⚡ Fun fact: I love cats 
@@ -16,7 +16,9 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" alt = "React" width = "40" height = "40">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" alt = "Node" width = "40" height = "40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" alt = "Postman" width = "40" height = "40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" alt = "DRF" width = "40" height = "40"/>
 
+          
 </p>
 
 <!-- <h2 align = center> 📊 Github Stats </h2>
